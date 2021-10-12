@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="UTF-8"?><unload unload_date="2021-09-25 16:45:50">
+<sys_remote_update_set action="INSERT_OR_UPDATE">
+<application display_value="Global">global</application>
+<application_name>Global</application_name>
+<application_scope>global</application_scope>
+<application_version/>
+<collisions/>
+<commit_date/>
+<deleted/>
+<description/>
+<inserted/>
+<name>Practice_02_Uladzimir_Krutsko</name>
+<origin_sys_id/>
+<parent display_value=""/>
+<release_date/>
+<remote_base_update_set display_value=""/>
+<remote_parent_id/>
+<remote_sys_id>91d1b6352f323010e2bed8492799b67d</remote_sys_id>
+<state>loaded</state>
+<summary/>
+<sys_class_name>sys_remote_update_set</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-09-25 16:45:50</sys_created_on>
+<sys_id>296e327d2f323010e2bed8492799b61c</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-09-25 16:45:50</sys_updated_on>
+<update_set display_value=""/>
+<update_source display_value=""/>
+<updated/>
+</sys_remote_update_set>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_dictionary_u_uladzimir_krutsko_traning_u_first_mark</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update&gt;&lt;sys_dictionary action="INSERT_OR_UPDATE" element="u_first_mark" table="u_uladzimir_krutsko_traning"&gt;&lt;active&gt;true&lt;/active&gt;&lt;array&gt;false&lt;/array&gt;&lt;array_denormalized&gt;false&lt;/array_denormalized&gt;&lt;attributes/&gt;&lt;audit&gt;false&lt;/audit&gt;&lt;calculation&gt;&lt;![CDATA[(function calculatedFieldValue(current) {
+
+	// Add your code here
+	return '';  // return the calculated value
+
+})(current);]]&gt;&lt;/calculation&gt;&lt;choice/&gt;&lt;choice_field/&gt;&lt;choice_table/&gt;&lt;column_label&gt;First Mark&lt;/column_label&gt;&lt;comments/&gt;&lt;create_roles/&gt;&lt;default_value/&gt;&lt;defaultsort/&gt;&lt;delete_roles/&gt;&lt;dependent/&gt;&lt;dependent_on_field/&gt;&lt;display&gt;false&lt;/display&gt;&lt;dynamic_creation&gt;false&lt;/dynamic_creation&gt;&lt;dynamic_creation_script/&gt;&lt;dynamic_default_value/&gt;&lt;dynamic_ref_qual/&gt;&lt;element&gt;u_first_mark&lt;/element&gt;&lt;element_reference&gt;false&lt;/element_reference&gt;&lt;foreign_database/&gt;&lt;function_definition/&gt;&lt;function_field&gt;false&lt;/function_field&gt;&lt;internal_type display_value="Integer"&gt;integer&lt;/internal_type&gt;&lt;mandatory&gt;false&lt;/mandatory&gt;&lt;max_length&gt;40&lt;/max_length&gt;&lt;name&gt;u_uladzimir_krutsko_traning&lt;/name&gt;&lt;next_element/&gt;&lt;primary&gt;false&lt;/primary&gt;&lt;read_only&gt;true&lt;/read_only&gt;&lt;read_roles/&gt;&lt;reference/&gt;&lt;reference_cascade_rule/&gt;&lt;reference_floats&gt;false&lt;/reference_floats&gt;&lt;reference_key/&gt;&lt;reference_qual/&gt;&lt;reference_qual_condition/&gt;&lt;reference_type/&gt;&lt;sizeclass/&gt;&lt;spell_check&gt;false&lt;/spell_check&gt;&lt;staged&gt;false&lt;/staged&gt;&lt;sys_class_name&gt;sys_dictionary&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2021-09-25 15:54:38&lt;/sys_created_on&gt;&lt;sys_id&gt;0b3276752f323010e2bed8492799b682&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name&gt;First Mark&lt;/sys_name&gt;&lt;sys_package display_value="Global" source="global"&gt;global&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Global"&gt;global&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_dictionary_u_uladzimir_krutsko_traning_u_first_mark&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2021-09-25 15:54:38&lt;/sys_updated_on&gt;&lt;table_reference&gt;false&lt;/table_reference&gt;&lt;text_index&gt;false&lt;/text_index&gt;&lt;unique&gt;false&lt;/unique&gt;&lt;use_dependent_field&gt;false&lt;/use_dependent_field&gt;&lt;use_dynamic_default&gt;false&lt;/use_dynamic_default&gt;&lt;use_reference_qualifier&gt;simple&lt;/use_reference_qualifier&gt;&lt;virtual&gt;false&lt;/virtual&gt;&lt;widget/&gt;&lt;write_roles/&gt;&lt;xml_view&gt;false&lt;/xml_view&gt;&lt;/sys_dictionary&gt;&lt;/record_update&gt;</payload>
+<payload_hash>802073994</payload_hash>
+<remote_update_set display_value="Practice_02_Uladzimir_Krutsko">296e327d2f323010e2bed8492799b61c</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-09-25 16:45:50</sys_created_on>
+<sys_id>2d6e327d2f323010e2bed8492799b61c</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>17c1daa68880000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-09-25 16:45:50</sys_updated_on>
+<table>u_uladzimir_krutsko_traning</table>
+<target_name>Uladzimir_Krutsko_Traning.First Mark</target_name>
+<type>Dictionary</type>
+<update_domain>global</update_domain>
+<update_guid>88b2ba75a6323010a658d62dbce6106e</update_guid>
+<update_guid_history>88b2ba75a6323010a658d62dbce6106e:802073994</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_script_561372b52f323010e2bed8492799b603</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update sys_domain="global" table="sys_script"&gt;&lt;sys_script action="INSERT_OR_UPDATE"&gt;&lt;abort_action&gt;false&lt;/abort_action&gt;&lt;access&gt;package_private&lt;/access&gt;&lt;action_delete&gt;false&lt;/action_delete&gt;&lt;action_insert&gt;true&lt;/action_insert&gt;&lt;action_query&gt;false&lt;/action_query&gt;&lt;action_update&gt;false&lt;/action_update&gt;&lt;active&gt;true&lt;/active&gt;&lt;add_message&gt;false&lt;/add_message&gt;&lt;advanced&gt;true&lt;/advanced&gt;&lt;change_fields&gt;false&lt;/change_fields&gt;&lt;client_callable&gt;false&lt;/client_callable&gt;&lt;collection&gt;u_uladzimir_krutsko_traning&lt;/collection&gt;&lt;condition/&gt;&lt;description/&gt;&lt;execute_function&gt;false&lt;/execute_function&gt;&lt;filter_condition/&gt;&lt;is_rest&gt;false&lt;/is_rest&gt;&lt;message/&gt;&lt;name&gt;Set First Mark&lt;/name&gt;&lt;order&gt;100&lt;/order&gt;&lt;priority&gt;100&lt;/priority&gt;&lt;rest_method/&gt;&lt;rest_method_text/&gt;&lt;rest_service/&gt;&lt;rest_service_text/&gt;&lt;rest_variables/&gt;&lt;role_conditions/&gt;&lt;script&gt;&lt;![CDATA[(function executeRule(current, previous /*null when async*/) {
+
+	current.u_first_mark = current.u_mark;
+	current.update();
+
+})(current, previous);]]&gt;&lt;/script&gt;&lt;sys_class_name&gt;sys_script&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2021-09-25 16:01:28&lt;/sys_created_on&gt;&lt;sys_domain&gt;global&lt;/sys_domain&gt;&lt;sys_domain_path&gt;/&lt;/sys_domain_path&gt;&lt;sys_id&gt;561372b52f323010e2bed8492799b603&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name&gt;Set First Mark&lt;/sys_name&gt;&lt;sys_overrides/&gt;&lt;sys_package display_value="Global" source="global"&gt;global&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Global"&gt;global&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_script_561372b52f323010e2bed8492799b603&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2021-09-25 16:01:28&lt;/sys_updated_on&gt;&lt;template/&gt;&lt;when&gt;after&lt;/when&gt;&lt;/sys_script&gt;&lt;sys_translated_text action="delete_multiple" query="documentkey=561372b52f323010e2bed8492799b603"/&gt;&lt;/record_update&gt;</payload>
+<payload_hash>-1713656795</payload_hash>
+<remote_update_set display_value="Practice_02_Uladzimir_Krutsko">296e327d2f323010e2bed8492799b61c</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-09-25 16:45:50</sys_created_on>
+<sys_id>316e327d2f323010e2bed8492799b61e</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>17c1db0a74e0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-09-25 16:45:50</sys_updated_on>
+<table>u_uladzimir_krutsko_traning</table>
+<target_name>Set First Mark</target_name>
+<type>Business Rule</type>
+<update_domain>global</update_domain>
+<update_guid>48447ab54e323010141b6cf7baffa6e3</update_guid>
+<update_guid_history>48447ab54e323010141b6cf7baffa6e3:-1713656795</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_dictionary_u_uladzimir_krutsko_traning_u_last_result</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update&gt;&lt;sys_dictionary action="INSERT_OR_UPDATE" element="u_last_result" table="u_uladzimir_krutsko_traning"&gt;&lt;active&gt;true&lt;/active&gt;&lt;array&gt;false&lt;/array&gt;&lt;array_denormalized&gt;false&lt;/array_denormalized&gt;&lt;attributes/&gt;&lt;audit&gt;false&lt;/audit&gt;&lt;calculation&gt;&lt;![CDATA[(function calculatedFieldValue(current) {
+
+	// Add your code here
+	return '';  // return the calculated value
+
+})(current);]]&gt;&lt;/calculation&gt;&lt;choice/&gt;&lt;choice_field/&gt;&lt;choice_table/&gt;&lt;column_label&gt;Last Result&lt;/column_label&gt;&lt;comments/&gt;&lt;create_roles/&gt;&lt;default_value/&gt;&lt;defaultsort/&gt;&lt;delete_roles/&gt;&lt;dependent/&gt;&lt;dependent_on_field/&gt;&lt;display&gt;false&lt;/display&gt;&lt;dynamic_creation&gt;false&lt;/dynamic_creation&gt;&lt;dynamic_creation_script/&gt;&lt;dynamic_default_value/&gt;&lt;dynamic_ref_qual/&gt;&lt;element&gt;u_last_result&lt;/element&gt;&lt;element_reference&gt;false&lt;/element_reference&gt;&lt;foreign_database/&gt;&lt;function_definition/&gt;&lt;function_field&gt;false&lt;/function_field&gt;&lt;internal_type display_value=""&gt;string_full_utf8&lt;/internal_type&gt;&lt;mandatory&gt;false&lt;/mandatory&gt;&lt;max_length&gt;202&lt;/max_length&gt;&lt;name&gt;u_uladzimir_krutsko_traning&lt;/name&gt;&lt;next_element/&gt;&lt;primary&gt;false&lt;/primary&gt;&lt;read_only&gt;false&lt;/read_only&gt;&lt;read_roles/&gt;&lt;reference/&gt;&lt;reference_cascade_rule/&gt;&lt;reference_floats&gt;false&lt;/reference_floats&gt;&lt;reference_key/&gt;&lt;reference_qual/&gt;&lt;reference_qual_condition/&gt;&lt;reference_type/&gt;&lt;sizeclass/&gt;&lt;spell_check&gt;false&lt;/spell_check&gt;&lt;staged&gt;false&lt;/staged&gt;&lt;sys_class_name&gt;sys_dictionary&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2021-09-25 15:55:05&lt;/sys_created_on&gt;&lt;sys_id&gt;c2b2fa752f323010e2bed8492799b6ae&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name&gt;Last Result&lt;/sys_name&gt;&lt;sys_package display_value="Global" source="global"&gt;global&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Global"&gt;global&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_dictionary_u_uladzimir_krutsko_traning_u_last_result&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2021-09-25 15:55:05&lt;/sys_updated_on&gt;&lt;table_reference&gt;false&lt;/table_reference&gt;&lt;text_index&gt;false&lt;/text_index&gt;&lt;unique&gt;false&lt;/unique&gt;&lt;use_dependent_field&gt;false&lt;/use_dependent_field&gt;&lt;use_dynamic_default&gt;false&lt;/use_dynamic_default&gt;&lt;use_reference_qualifier&gt;simple&lt;/use_reference_qualifier&gt;&lt;virtual&gt;false&lt;/virtual&gt;&lt;widget/&gt;&lt;write_roles/&gt;&lt;xml_view&gt;false&lt;/xml_view&gt;&lt;/sys_dictionary&gt;&lt;/record_update&gt;</payload>
+<payload_hash>534976260</payload_hash>
+<remote_update_set display_value="Practice_02_Uladzimir_Krutsko">296e327d2f323010e2bed8492799b61c</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-09-25 16:45:50</sys_created_on>
+<sys_id>356e327d2f323010e2bed8492799b61d</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>17c1daad07f0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-09-25 16:45:50</sys_updated_on>
+<table>u_uladzimir_krutsko_traning</table>
+<target_name>Uladzimir_Krutsko_Traning.Last Result</target_name>
+<type>Dictionary</type>
+<update_domain>global</update_domain>
+<update_guid>a6c23e75d3323010ebde20ba3dc01e76</update_guid>
+<update_guid_history>a6c23e75d3323010ebde20ba3dc01e76:534976260</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_script_4d06b2392f323010e2bed8492799b6d0</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update sys_domain="global" table="sys_script"&gt;&lt;sys_script action="INSERT_OR_UPDATE"&gt;&lt;abort_action&gt;false&lt;/abort_action&gt;&lt;access&gt;package_private&lt;/access&gt;&lt;action_delete&gt;false&lt;/action_delete&gt;&lt;action_insert&gt;false&lt;/action_insert&gt;&lt;action_query&gt;false&lt;/action_query&gt;&lt;action_update&gt;false&lt;/action_update&gt;&lt;active&gt;true&lt;/active&gt;&lt;add_message&gt;false&lt;/add_message&gt;&lt;advanced&gt;true&lt;/advanced&gt;&lt;change_fields&gt;false&lt;/change_fields&gt;&lt;client_callable&gt;false&lt;/client_callable&gt;&lt;collection&gt;u_uladzimir_krutsko_traning&lt;/collection&gt;&lt;condition/&gt;&lt;description/&gt;&lt;execute_function&gt;false&lt;/execute_function&gt;&lt;filter_condition/&gt;&lt;is_rest&gt;false&lt;/is_rest&gt;&lt;message/&gt;&lt;name&gt;Populate g_scratchpad&lt;/name&gt;&lt;order&gt;100&lt;/order&gt;&lt;priority&gt;100&lt;/priority&gt;&lt;rest_method/&gt;&lt;rest_method_text/&gt;&lt;rest_service/&gt;&lt;rest_service_text/&gt;&lt;rest_variables/&gt;&lt;role_conditions/&gt;&lt;script&gt;&lt;![CDATA[(function executeRule(current, previous /*null when async*/) {
+
+	var result = '';
+	var mark = parseInt(current.getValue('u_mark'));
+	var first_mark = parseInt(current.getValue('u_first_mark'));
+	if (mark&gt;first_mark){
+		result = 'Better';
+	}
+	else if(mark&lt;first_mark){
+		result = 'Worse';
+	}
+	else{
+		result = 'Same';
+	}
+	g_scratchpad.result = result;
+
+})(current, previous);]]&gt;&lt;/script&gt;&lt;sys_class_name&gt;sys_script&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2021-09-25 16:18:38&lt;/sys_created_on&gt;&lt;sys_domain&gt;global&lt;/sys_domain&gt;&lt;sys_domain_path&gt;/&lt;/sys_domain_path&gt;&lt;sys_id&gt;4d06b2392f323010e2bed8492799b6d0&lt;/sys_id&gt;&lt;sys_mod_count&gt;2&lt;/sys_mod_count&gt;&lt;sys_name&gt;Populate g_scratchpad&lt;/sys_name&gt;&lt;sys_overrides/&gt;&lt;sys_package display_value="Global" source="global"&gt;global&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Global"&gt;global&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_script_4d06b2392f323010e2bed8492799b6d0&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2021-09-25 16:31:26&lt;/sys_updated_on&gt;&lt;template/&gt;&lt;when&gt;before_display&lt;/when&gt;&lt;/sys_script&gt;&lt;sys_translated_text action="delete_multiple" query="documentkey=4d06b2392f323010e2bed8492799b6d0"/&gt;&lt;/record_update&gt;</payload>
+<payload_hash>-2039228035</payload_hash>
+<remote_update_set display_value="Practice_02_Uladzimir_Krutsko">296e327d2f323010e2bed8492799b61c</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-09-25 16:45:50</sys_created_on>
+<sys_id>7d6e327d2f323010e2bed8492799b61d</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>17c1dcc16a00000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-09-25 16:45:50</sys_updated_on>
+<table>u_uladzimir_krutsko_traning</table>
+<target_name>Populate g_scratchpad</target_name>
+<type>Business Rule</type>
+<update_domain>global</update_domain>
+<update_guid>761bbaf938323010eb4ed2c76ba0b4ad</update_guid>
+<update_guid_history>761bbaf938323010eb4ed2c76ba0b4ad:-2039228035,c5893a392f3230108d6f59e43ca43bd7:329538027,df287a7944323010d460a08893442457:674302123</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_ui_section_fa0b68cb2f623010e2bed8492799b6bc</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_section caption="" section_id="fa0b68cb2f623010e2bed8492799b6bc" sys_domain="global" table="u_uladzimir_krutsko_traning" version="3" view=""><sys_ui_element action="INSERT_OR_UPDATE"><element>u_test_number</element><position>0</position><sys_created_by>admin</sys_created_by><sys_created_on>2021-09-25 16:04:58</sys_created_on><sys_id>4705f6f52f323010e2bed8492799b6ca</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="u_uladzimir_krutsko_traning" sys_domain="global" view="Default view">fa0b68cb2f623010e2bed8492799b6bc</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-09-25 16:04:58</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>u_user</element><position>1</position><sys_created_by>admin</sys_created_by><sys_created_on>2021-09-25 16:04:58</sys_created_on><sys_id>cb05f6f52f323010e2bed8492799b6ca</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="u_uladzimir_krutsko_traning" sys_domain="global" view="Default view">fa0b68cb2f623010e2bed8492799b6bc</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-09-25 16:04:58</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>u_last_result</element><position>2</position><sys_created_by>admin</sys_created_by><sys_created_on>2021-09-25 16:04:58</sys_created_on><sys_id>4f05f6f52f323010e2bed8492799b6ca</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="u_uladzimir_krutsko_traning" sys_domain="global" view="Default view">fa0b68cb2f623010e2bed8492799b6bc</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-09-25 16:04:58</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>.split</element><position>3</position><sys_created_by>admin</sys_created_by><sys_created_on>2021-09-25 16:04:58</sys_created_on><sys_id>cf05f6f52f323010e2bed8492799b6ca</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="u_uladzimir_krutsko_traning" sys_domain="global" view="Default view">fa0b68cb2f623010e2bed8492799b6bc</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-09-25 16:04:58</sys_updated_on><sys_user/><type>.split</type></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>u_result</element><position>4</position><sys_created_by>admin</sys_created_by><sys_created_on>2021-09-25 16:04:58</sys_created_on><sys_id>4305f6f52f323010e2bed8492799b6cb</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="u_uladzimir_krutsko_traning" sys_domain="global" view="Default view">fa0b68cb2f623010e2bed8492799b6bc</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-09-25 16:04:58</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>u_mark</element><position>5</position><sys_created_by>admin</sys_created_by><sys_created_on>2021-09-25 16:04:58</sys_created_on><sys_id>c305f6f52f323010e2bed8492799b6cb</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="u_uladzimir_krutsko_traning" sys_domain="global" view="Default view">fa0b68cb2f623010e2bed8492799b6bc</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-09-25 16:04:58</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>u_first_mark</element><position>6</position><sys_created_by>admin</sys_created_by><sys_created_on>2021-09-25 16:04:58</sys_created_on><sys_id>4705f6f52f323010e2bed8492799b6cb</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="u_uladzimir_krutsko_traning" sys_domain="global" view="Default view">fa0b68cb2f623010e2bed8492799b6bc</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-09-25 16:04:58</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_section action="INSERT_OR_UPDATE"><caption/><header>false</header><name>u_uladzimir_krutsko_traning</name><roles/><sys_class_name>sys_ui_section</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-09-16 16:58:43</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>fa0b68cb2f623010e2bed8492799b6bc</sys_id><sys_mod_count>0</sys_mod_count><sys_name>u_uladzimir_krutsko_traning</sys_name><sys_overrides/><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_ui_section_fa0b68cb2f623010e2bed8492799b6bc</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-09-16 16:58:43</sys_updated_on><sys_user/><title>true</title><view display_value="Default view" name="NULL">Default view</view><view_name/></sys_ui_section></sys_ui_section></record_update>]]></payload>
+<payload_hash>-1918721673</payload_hash>
+<remote_update_set display_value="Practice_02_Uladzimir_Krutsko">296e327d2f323010e2bed8492799b61c</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-09-25 16:45:50</sys_created_on>
+<sys_id>b56e327d2f323010e2bed8492799b61e</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>17c1db3da690000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-09-25 16:45:50</sys_updated_on>
+<table>u_uladzimir_krutsko_traning</table>
+<target_name>Uladzimir_Krutsko_Traning</target_name>
+<type>Form Layout</type>
+<update_domain>global</update_domain>
+<update_guid>8f05f6f56d32301016bd2c24bff03bcc</update_guid>
+<update_guid_history>8f05f6f56d32301016bd2c24bff03bcc:-1918721673,6ac23e753e323010bed9918023dd9962:1301420653,33a2ba752f323010c79706285d43bf58:447446476,b60b68cbe1623010820ff880ddc08cc5:-1944381878,320b68cb266230105df476d53ade52c0:1477002591</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_documentation_u_uladzimir_krutsko_traning_u_last_result_en</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_documentation element="u_last_result" label="Last Result" language="en" table="u_uladzimir_krutsko_traning"><sys_documentation action="INSERT_OR_UPDATE"><element>u_last_result</element><help/><hint/><label>Last Result</label><language>en</language><name>u_uladzimir_krutsko_traning</name><plural>Last Results</plural><sys_class_name>sys_documentation</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-09-25 15:55:06</sys_created_on><sys_id>e6c23e752f323010e2bed8492799b663</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Last Result</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_documentation_u_uladzimir_krutsko_traning_u_last_result_en</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-09-25 15:55:06</sys_updated_on><url/><url_target/></sys_documentation></sys_documentation></record_update>]]></payload>
+<payload_hash>-477324835</payload_hash>
+<remote_update_set display_value="Practice_02_Uladzimir_Krutsko">296e327d2f323010e2bed8492799b61c</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-09-25 16:45:50</sys_created_on>
+<sys_id>b96e327d2f323010e2bed8492799b61d</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>17c1daad0b00000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-09-25 16:45:50</sys_updated_on>
+<table>u_uladzimir_krutsko_traning</table>
+<target_name>Uladzimir_Krutsko_Traning.Last Result</target_name>
+<type>Field Label</type>
+<update_domain>global</update_domain>
+<update_guid>2ec23e75c93230107a3cdfa11d006a77</update_guid>
+<update_guid_history>2ec23e75c93230107a3cdfa11d006a77:-477324835</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_script_client_604c3a3d2f323010e2bed8492799b66e</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update sys_domain="global" table="sys_script_client"&gt;&lt;sys_script_client action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;applies_extended&gt;false&lt;/applies_extended&gt;&lt;condition/&gt;&lt;description/&gt;&lt;field&gt;sys_created_on&lt;/field&gt;&lt;global&gt;true&lt;/global&gt;&lt;isolate_script&gt;true&lt;/isolate_script&gt;&lt;messages/&gt;&lt;name&gt;Set last result&lt;/name&gt;&lt;order/&gt;&lt;script&gt;&lt;![CDATA[function onLoad() {
+	g_form.setValue('u_last_result', g_scratchpad.result); 
+   //Type appropriate comment here, and begin script below
+   
+}]]&gt;&lt;/script&gt;&lt;sys_class_name&gt;sys_script_client&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2021-09-25 16:39:18&lt;/sys_created_on&gt;&lt;sys_domain&gt;global&lt;/sys_domain&gt;&lt;sys_domain_path&gt;/&lt;/sys_domain_path&gt;&lt;sys_id&gt;604c3a3d2f323010e2bed8492799b66e&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name&gt;Set last result&lt;/sys_name&gt;&lt;sys_overrides/&gt;&lt;sys_package display_value="Global" source="global"&gt;global&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Global"&gt;global&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_script_client_604c3a3d2f323010e2bed8492799b66e&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2021-09-25 16:39:18&lt;/sys_updated_on&gt;&lt;table&gt;u_uladzimir_krutsko_traning&lt;/table&gt;&lt;type&gt;onLoad&lt;/type&gt;&lt;ui_type&gt;10&lt;/ui_type&gt;&lt;view/&gt;&lt;/sys_script_client&gt;&lt;/record_update&gt;</payload>
+<payload_hash>235046206</payload_hash>
+<remote_update_set display_value="Practice_02_Uladzimir_Krutsko">296e327d2f323010e2bed8492799b61c</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-09-25 16:45:50</sys_created_on>
+<sys_id>f16e327d2f323010e2bed8492799b61e</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>17c1dd34a660000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-09-25 16:45:50</sys_updated_on>
+<table>u_uladzimir_krutsko_traning</table>
+<target_name>Set last result</target_name>
+<type>Client Script</type>
+<update_domain>global</update_domain>
+<update_guid>82ecfe3d3d323010f150338fad19bf9b</update_guid>
+<update_guid_history>82ecfe3d3d323010f150338fad19bf9b:235046206</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_documentation_u_uladzimir_krutsko_traning_u_first_mark_en</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_documentation element="u_first_mark" label="First Mark" language="en" table="u_uladzimir_krutsko_traning"><sys_documentation action="INSERT_OR_UPDATE"><element>u_first_mark</element><help/><hint/><label>First Mark</label><language>en</language><name>u_uladzimir_krutsko_traning</name><plural>First Marks</plural><sys_class_name>sys_documentation</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-09-25 15:54:39</sys_created_on><sys_id>c0b2ba752f323010e2bed8492799b659</sys_id><sys_mod_count>0</sys_mod_count><sys_name>First Mark</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_documentation_u_uladzimir_krutsko_traning_u_first_mark_en</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-09-25 15:54:39</sys_updated_on><url/><url_target/></sys_documentation></sys_documentation></record_update>]]></payload>
+<payload_hash>1370018359</payload_hash>
+<remote_update_set display_value="Practice_02_Uladzimir_Krutsko">296e327d2f323010e2bed8492799b61c</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-09-25 16:45:50</sys_created_on>
+<sys_id>f56e327d2f323010e2bed8492799b61d</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>17c1daa68d10000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-09-25 16:45:50</sys_updated_on>
+<table>u_uladzimir_krutsko_traning</table>
+<target_name>Uladzimir_Krutsko_Traning.First Mark</target_name>
+<type>Field Label</type>
+<update_domain>global</update_domain>
+<update_guid>c0b2ba75c332301000ac20cc8f2f7070</update_guid>
+<update_guid_history>c0b2ba75c332301000ac20cc8f2f7070:1370018359</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+</unload>
